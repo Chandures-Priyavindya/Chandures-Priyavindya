@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Chandures Priyavindya</h1>
 <h9 align="center">I am Chandures Priyavindya, an undergraduate student specializing in Software Engineering at the National Institute of Business Management. My academic journey began at Richmond College. With a focus on Android and web development, I am passionate about creating impactful software solutions.Continuously honing my skills and exploring the latest technologies, I strive to innovate and contribute to the field of software development. 😍</h9>
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F20962925-software-engineer-png-graphic-clipart-design&psig=AOvVaw2AGb3InEdeRH_9MNud_EF6&ust=1718865514388000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiZzaSH54YDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/Chandures-Priyavindya/Chandures-Priyavindya/assets/145960853/7de7e3b7-db7e-434a-9b63-eef813cc7b2e)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandures-priyavindya&label=Profile%20views&color=0e75b6&style=flat" alt="chandures-priyavindya" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS**
