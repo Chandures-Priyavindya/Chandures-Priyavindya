@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **HTML,CSS**
 
-- 💬 Ask me about **HTML, CSS, PHP, C, C#, JavaScript**
+- 💬 Ask me about **HTML, CSS, PHP, C, C#, JavaScript ,React, sass**
 
 - 📫 How to reach me **chandurespriyavindya@gmail.com**
 
