@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandures-priyavindya&label=Profile%20views&color=0e75b6&style=flat" alt="chandures-priyavindya" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **HTML,CSS,React.js,Sass,Php,Javascript**
 
 - 💬 Ask me about **HTML, CSS, PHP, C, C#, JavaScript ,React, sass**
 
